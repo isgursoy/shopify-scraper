@@ -1,4 +1,4 @@
-undetected-chromedriver
+#undetected-chromedriver
 selenium~=4.10.0
 selenium-stealth
 curl_cffi
